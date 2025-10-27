@@ -3,6 +3,7 @@
 Data Analytics Student | Excel | SQL | Power BI
 
 Welcome to my GitHub Profile!
+
 I use this space to share my data projects, reports, and dashboards.
 
 My interests:
